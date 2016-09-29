@@ -8,4 +8,4 @@ Cheatsheet:
 - Generate a cheetsheet docset via: `$ cheatset generate puma-dev.rb`
 - Install that (to only your local Dash) via: `$ open puma-dev.doscet`
 
-See the [cheatset repo]((https://github.com/Kapeli/cheatset) and Dash's [Cheatsheet docs](https://github.com/Kapeli/cheatsheets#readme) for more.
+See the [cheatset repo](https://github.com/Kapeli/cheatset) and Dash's [Cheatsheet docs](https://github.com/Kapeli/cheatsheets#readme) for more.
