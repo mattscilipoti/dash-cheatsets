@@ -35,11 +35,15 @@ cheatsheet do
 
   category do
     id 'Debug'
-
+    entry do
+      command 'curl -H "Host: puma-dev" localhost/status'
+      name 'Status'
+      notes "Returns status of puma-dev."
+    end
     entry do
       command 'curl -H "Host: puma-dev" localhost/events'
       name 'Event log'
-      notes "Displays a log of puma-dev events."
+      notes "Returns a log of puma-dev events."
     end
   end
 end
