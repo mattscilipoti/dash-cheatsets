@@ -6,6 +6,6 @@ This is a library of Cheatsets I have created.  These Cheatsets generate CheatSh
 
 Cheatsheet:
 - Generate a cheetsheet docset via: `$ cheatset generate puma-dev.rb`
-- Install that (to only your local Dash) via: `$ open puma-dev.doscet`
+- Install that (to only your local Dash) via: `$ open puma-dev.docset`
 
 See the [cheatset repo](https://github.com/Kapeli/cheatset) and Dash's [Cheatsheet docs](https://github.com/Kapeli/cheatsheets#readme) for more.
